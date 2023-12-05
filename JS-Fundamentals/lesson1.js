@@ -22,5 +22,12 @@ const  occepation = "QA Engineer"
 
 console.log(occepation)
 
-// data types
+// data types 
+let middleName = "David" //string
+let ageOfBirth = 30 //number
+let isHeMarried = false //boolean
+let yearsInMarriage = null //null (no value)
+let numberOfCars = undefined //undefined (something which is not exist)
+
+
 
