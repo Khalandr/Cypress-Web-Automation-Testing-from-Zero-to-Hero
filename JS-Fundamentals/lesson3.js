@@ -2,7 +2,8 @@
 
 let customer = {
     firstName: "John",
-    lastName: "Smith"
+    lastName: "Smith",
+    car: ["Volvo", "Toyota", "Tesla"]
 }
 
 console.log(customer)
@@ -14,4 +15,12 @@ console.log(customer.firstName)
 customer["lastName"] = "Silver"
 console.log(customer["lastName"])
 console.log(`${customer.firstName} ${customer.lastName}`)
+
+//arrays
+let car = ["Volvo", "Toyota", "Tesla"]
+console.log(car[0])
+car[1] = "BMW"
+console.log(car)
+
+console.log(customer.car[2])
 
