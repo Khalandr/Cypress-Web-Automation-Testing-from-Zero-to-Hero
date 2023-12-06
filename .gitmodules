@@ -1,0 +1,3 @@
+[submodule "ngx-cypress-test"]
+	path = ngx-cypress-test
+	url = https://github.com/Khalandr/ngx-cypress-test.git
