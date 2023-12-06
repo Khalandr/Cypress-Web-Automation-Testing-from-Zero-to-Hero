@@ -36,4 +36,3 @@ function multiplyByTwo(number){
 let myResult = multiplyByTwo(5)
 console.log(myResult)
 
-//test1
